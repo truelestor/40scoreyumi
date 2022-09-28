@@ -1,0 +1,18 @@
+{
+  "name": "40scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "triple-scores.net ◄ Get Your FREE Credit Score triple-scores.net, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "triple-scores.net",
+    "662 credit score",
+    "647 credit score",
+    "credit score percentile by age",
+    "credit score 0 loans"
+  ],
+  "repository": "https://github.com/truelestor/40scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
